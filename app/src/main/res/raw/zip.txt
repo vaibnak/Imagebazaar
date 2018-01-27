@@ -1,0 +1,1 @@
+Zip helps in reducing the size of the file, It compresses it , and make the transferring of information easy
